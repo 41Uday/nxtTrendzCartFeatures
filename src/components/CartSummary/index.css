@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.cs-head {
+  font-size: 22px;
+  font-family: 'Roboto';
+  color: #616e7c;
+}
+.s-cs {
+  font-size: 25px;
+  font-family: 'Roboto';
+  color: black;
+}
+.cs-para {
+  font-family: 'Roboto';
+  color: #616e7c;
+}
+
+.butt-cs {
+  height: 40px;
+  width: 140px;
+  padding: 10px;
+  border-radius: 7px;
+  border: none;
+  background-color: #0b69ff;
+  color: white;
+  font-family: 'roboto';
+  font-weight: 600;
+  align-self: flex-end;
+}
